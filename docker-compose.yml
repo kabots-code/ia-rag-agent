@@ -1,0 +1,35 @@
+# docker-compose para PRODUCCIÓN (entrega al cliente)
+# No contiene código fuente - usa imagen pre-construida
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    ports:
+      - "6333:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    restart: unless-stopped
+
+  app:
+    image: kabots/rag-mvp:latest
+    ports:
+      - "8000:8000"
+    environment:
+      - IN_DOCKER=true
+      - QDRANT_URL=http://qdrant:6333
+      # host.docker.internal works on Windows & Mac Docker Desktop natively
+      # On Linux: extra_hosts below maps it to the host gateway
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - SHARE_PATH=/app/shared
+      - OLLAMA_CHAT_MODEL
+    extra_hosts:
+      - "host.docker.internal:host-gateway"  # Linux compatibility
+    volumes:
+      - ./shared:/app/shared
+      - chat_data:/app/data
+    depends_on:
+      - qdrant
+    restart: unless-stopped
+
+volumes:
+  qdrant_data:
+  chat_data:

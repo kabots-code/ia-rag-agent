@@ -1,0 +1,83 @@
+MANUAL DE TELETREBALL - GEYMA CORP
+=====================================
+
+Versió: 2.1
+Data: Febrer 2026
+
+1. INTRODUCCIÓ
+--------------
+Aquest manual regula les condicions i procediments per al teletreball a Geyma Corp.
+
+2. ELEGIBILITAT
+--------------
+Poden acollir-se al teletreball:
+- Empleats amb contracte indefinit
+- Més de 6 mesos d'antiguitat a l'empresa
+- Amb avaluació de rendiment positiva
+- Posicions compatibles amb teletreball (segons criteri del responsable)
+
+3. MODALITATS
+-------------
+3.1 Teletreball parcial
+- Fins a 3 dies setmanals des de casa
+- Convocatòria obligatòria a l'oficina dimarts i dijous (reunions d'equip)
+
+3.2 Teletreball total
+- Excepcional, requereix aprovació de Direcció
+- Revisió trimestral obligatòria
+
+4. EQUIPAMENT
+-------------
+L'empresa proporciona:
+- Ordinador portàtil
+- Conexió VPN
+- Telèfon mòbil corporatiu (si aplica)
+- Cadira ergonòmica (previa sol·licitud)
+
+L'empleat ha d'assegurar:
+- Connexió a Internet estable (mínim 20 Mbps)
+- Espai adequat de treball
+- Condicions de seguretat i salut laboral
+
+5. HORARI I DISPONIBILITAT
+---------------------------
+- Horari laboral: 9h-18h amb 1h per dinar
+- Flexibilitat horàriad'entrada: 8h30-10h
+- Disponibilitat per videoconferència durant l'horari laboral
+- Temps de resposta màxim a correus urgents: 2 hores
+
+6. SEGURETAT I CONFIDENCIALITAT
+-------------------------------
+- Ús obligatori de VPN per accedir a recursos corporatius
+- Prohibit compartir credencials
+- Xifrat de disc complet activat
+- No es permet l'ús de dispositius personals per accedir a dades corporatives
+
+7. COMUNICACIÓ
+--------------
+Eines oficials:
+- Microsoft Teams (missatgeria i videoconferència)
+- Outlook (correu corporatiu)
+- SharePoint (documentació)
+
+8. SOL·LICITUD I APROVACIÓ
+--------------------------
+1. Empleat omple formulari al portal RRHH
+2. Aprovació del responsable directe (3 dies)
+3. Validació de RRHH (2 dies)
+4. Preparació d'equip per IT (5 dies)
+
+Període de prova: 1 mes (reversible per ambdues parts)
+
+9. DRETS I DEURES
+-----------------
+L'empleat en teletreball té els mateixos drets que els treballadors presencials:
+- Formació
+- Promoció professional
+- Avaluació objectiva
+- Desconnexió digital fora de l'horari laboral
+
+10. CONTACTE
+------------
+Dubtes sobre teletreball: teletreball@geyma.cat
+Suport tècnic: helpdesk@geyma.cat (ext. 5000)
