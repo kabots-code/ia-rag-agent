@@ -10,7 +10,7 @@ services:
     restart: unless-stopped
 
   app:
-    image: kabots/rag-mvp:latest
+    image: kabots/rag-mvp-client:latest
     ports:
       - "8000:8000"
     environment:
